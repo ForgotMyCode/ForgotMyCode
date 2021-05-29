@@ -2,7 +2,7 @@
 
 I do primarily Java, C/C++ and Python.
 
-Welcome, whoever you are, have a cookie 🍪. Seriously. Mental illnesses such as not liking cookies is not acceptable here.
+Welcome, whoever you are, have a cookie 🍪. Seriously. Mental illnesses such as not liking cookies are not acceptable here.
 
 Was the cookie good?
 a) yes  b) yes  c) yes  d) I'm leaving involuntarily
