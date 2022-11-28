@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ForgotMyCode
 
-I do primarily Java, C/C++ and Python.
+I do primarily C++, Java, C and Python.
 
 Welcome, whoever you are, have a cookie 🍪. Seriously. Mental illnesses such as not liking cookies are not acceptable here.
 
