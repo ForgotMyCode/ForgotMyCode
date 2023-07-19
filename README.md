@@ -30,7 +30,7 @@ I do primarily C++, Java, C and Python.
 
 ## Autumn Landscape
 
-*A small interactive adventure in autumn nature, made in OpenGL.*
+*A small interactive adventure in autumn nature, made with OpenGL.*
 
 ![screenshot2](https://github.com/ForgotMyCode/ForgotMyCode/assets/79061723/09e5e5d0-bfb8-49e0-8e53-a36321eb92ec)
 
