@@ -8,13 +8,13 @@ I do primarily C++, Java, C and Python.
 
 ## Smoothed Particle Hydrodynamics
 
-*Fluid particle simulation for CPU and GPU (using CUDA) + visualisation using Dear ImGui.*
+*Fluid particle simulation for CPU and GPU (using CUDA) + visualisation using OpenGL.*
 
 ![screenshot2 (1)](https://github.com/ForgotMyCode/ForgotMyCode/assets/79061723/13137884-d5a5-4a95-b747-ef4ff4b6d83f)
 
 ## Mandelbrot Set
 
-*Parallel implementation of Mandelbrot set, visualisation in OpenGL.*
+*Parallel implementation of Mandelbrot set, visualisation in Dear ImGui.*
 
 ![screenshot](https://github.com/ForgotMyCode/ForgotMyCode/assets/79061723/a847f2d2-a644-4b6a-8cc1-6ab361bf92f9)
 
