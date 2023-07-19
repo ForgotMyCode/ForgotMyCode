@@ -51,3 +51,9 @@ I do primarily C++, Java, C and Python.
 *Making rope interact with physics objects in Unreal engine.*
 
 ![wire](https://github.com/ForgotMyCode/ForgotMyCode/assets/79061723/7a9766ec-8cf0-4865-873c-1e8070bba090)
+
+# Currently work in progress projects:
+
+ - Chess bot using Neural networks
+
+ - Multiplayer shooter in Unreal engine
