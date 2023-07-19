@@ -39,3 +39,15 @@ I do primarily C++, Java, C and Python.
 *Implementation of an advanced shadow mapping algorithm in OpenGL.*
 
 ![pgr2ss1](https://github.com/ForgotMyCode/ForgotMyCode/assets/79061723/6d00579c-182a-4e82-ab80-fdffa1f3905c)
+
+## Cloth physics simulation
+
+*Provot's spring model in Unreal engine.*
+
+![cp](https://github.com/ForgotMyCode/ForgotMyCode/assets/79061723/b7c6d65b-66eb-49fc-a1de-6fee91a1384b)
+
+## Rope
+
+*Making rope interact with physics objects in Unreal engine.*
+
+![wire](https://github.com/ForgotMyCode/ForgotMyCode/assets/79061723/7a9766ec-8cf0-4865-873c-1e8070bba090)
