@@ -8,7 +8,7 @@ I do primarily C++, Java, C and Python.
 
 ## Smoothed Particle Hydrodynamics
 
-*Fluid particle simulation for CPU and GPU (using CUDA) + visualisation in OpenGL.*
+*Fluid particle simulation for CPU and GPU (using CUDA) + visualisation using Dear ImGui.*
 
 ![screenshot2 (1)](https://github.com/ForgotMyCode/ForgotMyCode/assets/79061723/13137884-d5a5-4a95-b747-ef4ff4b6d83f)
 
