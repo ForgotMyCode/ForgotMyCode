@@ -18,7 +18,7 @@ I do primarily C++, Java, C and Python.
 
 ![screenshot](https://github.com/ForgotMyCode/ForgotMyCode/assets/79061723/a847f2d2-a644-4b6a-8cc1-6ab361bf92f9)
 
-# Here are some my other projects that are not hosted here:
+# Here are some of my other projects that are not hosted here:
 
 (usually due to size of some assets)
 
