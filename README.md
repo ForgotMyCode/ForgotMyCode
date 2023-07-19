@@ -2,17 +2,40 @@
 
 I do primarily C++, Java, C and Python.
 
-Welcome, whoever you are, have a cookie 🍪. Seriously. Mental illnesses such as not liking cookies are not acceptable here.
+# Here are some of my projects that are hosted here
 
-Was the cookie good?
-a) yes  b) yes  c) yes  d) I'm leaving involuntarily
+(Check my [Repositories](https://github.com/ForgotMyCode?tab=repositories) for more!)
 
-Cool, get another 🍪.
+## Smoothed Particle Hydrodynamics
 
-As you can see I am a completely respectable human being that gives cookies to strangers.
+*Fluid particle simulation for CPU and GPU + visualisation in OpenGL.*
 
-If you are seeking for a life advice:
+![screenshot2 (1)](https://github.com/ForgotMyCode/ForgotMyCode/assets/79061723/13137884-d5a5-4a95-b747-ef4ff4b6d83f)
 
-Commit & Push your brain regularly so you don't forget everything like me.
+## Mandelbrot Set
 
-Don't get used to the snacks here, it's your turn to bring some.
+*Parallel implementation of Mandelbrot set, visualisation in OpenGL.*
+
+![screenshot](https://github.com/ForgotMyCode/ForgotMyCode/assets/79061723/a847f2d2-a644-4b6a-8cc1-6ab361bf92f9)
+
+# Here are some my other projects that are not hosted here:
+
+(usually due to size of some assets)
+
+## Leaft
+
+*A small relaxing game made in Unreal engine.*
+
+![leaft](https://github.com/ForgotMyCode/ForgotMyCode/assets/79061723/94be00f8-e6ea-44dd-91e6-f9148c5556af)
+
+## Autumn Landscape
+
+*A small interactive adventure in autumn nature, made in OpenGL.*
+
+![screenshot2](https://github.com/ForgotMyCode/ForgotMyCode/assets/79061723/09e5e5d0-bfb8-49e0-8e53-a36321eb92ec)
+
+## Intermediate Shadow Maps for Interactive Many-Lights Rendering
+
+*Implementation of an advanced shadow mapping algorithm in OpenGL.*
+
+![pgr2ss1](https://github.com/ForgotMyCode/ForgotMyCode/assets/79061723/6d00579c-182a-4e82-ab80-fdffa1f3905c)
