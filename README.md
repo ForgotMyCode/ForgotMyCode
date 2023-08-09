@@ -2,6 +2,8 @@
 
 I do primarily C++, Java, C and Python.
 
+Wanna check more of my activities? [Check out my leetcode](https://leetcode.com/Fctoplasm/)!
+
 # Here are some of my projects that are hosted here
 
 (Check my [Repositories](https://github.com/ForgotMyCode?tab=repositories) for more!)
