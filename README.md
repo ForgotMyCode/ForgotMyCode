@@ -56,6 +56,8 @@ Wanna check more of my activities? [Check out my leetcode](https://leetcode.com/
 
 # Currently work in progress projects:
 
+ - Terminal tool built upon python interpreter
+
  - Chess bot using Neural networks
 
  - Multiplayer shooter in Unreal engine
