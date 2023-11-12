@@ -58,6 +58,4 @@ Wanna check more of my activities? [Check out my leetcode](https://leetcode.com/
 
  - Terminal tool built upon python interpreter
 
- - Chess bot using Neural networks
-
  - Multiplayer shooter in Unreal engine
