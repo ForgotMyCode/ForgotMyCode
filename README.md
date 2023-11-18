@@ -56,6 +56,6 @@ Wanna check more of my activities? [Check out my leetcode](https://leetcode.com/
 
 # Currently work in progress projects:
 
- - Terminal tool built upon python interpreter
-
  - Multiplayer shooter in Unreal engine
+
+ - Low level C++ UI library
